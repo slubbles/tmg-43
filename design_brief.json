@@ -1,0 +1,265 @@
+{
+  "lead_id": "24f3615134494fdabfd998d316e51af3",
+  "brief": {
+    "schema": "genesis_brief/v1",
+    "contact": {
+      "name": "Thela Media Group",
+      "email": "partners@tmg.agency",
+      "phone": null,
+      "company": "Thela Media Group"
+    },
+    "existing_site": {
+      "has_site": true,
+      "url": "https://tmg.agency/",
+      "preference": "keep_bios_rebuild"
+    },
+    "brand": {
+      "name": "TMG",
+      "tagline": "Advertising systems connected by intelligence infrastructure",
+      "about": "Thela Media Group (TMG) builds advertising systems connected by intelligence infrastructure. Elite systems for the most demanding campaigns \u2014 strategy, creative, media buying, analytics, automation, and intelligence backbones helping brands spend smarter and grow with confidence.\n\nPlatforms: Velocity (paid media deployment), Catalyst (marketing ops automation), Genesis (creative/campaign support), Oracle (market and performance intelligence).\n\nIndustries: healthcare, finance, technology, real estate, and energy. Trusted partnership approach with measurable growth."
+    },
+    "reference_urls": [
+      "https://www.palantir.com/"
+    ],
+    "reference_source": "lead",
+    "styles": [
+      "modern",
+      "classic",
+      "sophisticated"
+    ],
+    "style_notes": null,
+    "colors": {
+      "mode": "designer_choose",
+      "palette": null
+    },
+    "scope": "multipage",
+    "pages": [
+      "/",
+      "/contact",
+      "/platforms/velocity-ai",
+      "/platforms/catalyst",
+      "/platforms/genesis",
+      "/platforms/oracle",
+      "/case-studies",
+      "/services/ai-powered-strategy",
+      "/services/marketing-intelligence",
+      "/services/creative-development",
+      "/services/brand-architecture",
+      "/services/performance-media",
+      "/services/marketing-attribution",
+      "/services/digital-transformation",
+      "/services/content-strategy",
+      "/services/customer-analytics",
+      "/services/marketing-automation",
+      "/services/fractional-cmo-services",
+      "/industries/healthcare-life-sciences",
+      "/industries/financial-services",
+      "/industries/technology-saas",
+      "/industries/real-estate",
+      "/industries/energy-utilities",
+      "/industries/retail-ecommerce",
+      "/industries/manufacturing",
+      "/industries/professional-services",
+      "/industries/education",
+      "/industries/non-profit",
+      "/platforms/artificial-intelligence",
+      "/platforms/machine-learning-models",
+      "/platforms/predictive-analytics",
+      "/platforms/data-science",
+      "/platforms/crm-integration",
+      "/platforms/api-development",
+      "/platforms/real-time-optimization",
+      "/platforms/ab-testing-platform",
+      "/insights",
+      "/growth-framework",
+      "/blog",
+      "/privacy",
+      "/terms"
+    ],
+    "consent": true,
+    "inferred_niche": "agency",
+    "pages_first_pass": [
+      "/",
+      "/contact",
+      "/platforms/velocity-ai",
+      "/platforms/catalyst",
+      "/platforms/genesis",
+      "/platforms/oracle",
+      "/case-studies",
+      "/services/ai-powered-strategy",
+      "/services/marketing-intelligence",
+      "/services/creative-development",
+      "/services/brand-architecture",
+      "/services/performance-media",
+      "/services/marketing-attribution",
+      "/services/digital-transformation",
+      "/services/content-strategy",
+      "/services/customer-analytics",
+      "/services/marketing-automation",
+      "/services/fractional-cmo-services",
+      "/industries/healthcare-life-sciences",
+      "/industries/financial-services",
+      "/industries/technology-saas",
+      "/industries/real-estate",
+      "/industries/energy-utilities",
+      "/industries/retail-ecommerce",
+      "/industries/manufacturing",
+      "/industries/professional-services",
+      "/industries/education",
+      "/industries/non-profit",
+      "/platforms/artificial-intelligence",
+      "/platforms/machine-learning-models",
+      "/platforms/predictive-analytics",
+      "/platforms/data-science",
+      "/platforms/crm-integration",
+      "/platforms/api-development",
+      "/platforms/real-time-optimization",
+      "/platforms/ab-testing-platform",
+      "/insights",
+      "/growth-framework",
+      "/blog",
+      "/privacy",
+      "/terms"
+    ],
+    "pages_source": "existing_site_nav",
+    "content_facts": {
+      "url": "https://tmg.agency/",
+      "sections": [
+        {
+          "heading": "Elite Systems for the Most Demanding Campaigns"
+        },
+        {
+          "heading": "The New Standard We believe great advertising is built on judgment, data, and discipline."
+        },
+        {
+          "heading": "Our platforms power AI-driven marketing intelligence that transforms brands across healthcare, finance, technology, real estate, and energy."
+        },
+        {
+          "heading": "Our Platforms"
+        },
+        {
+          "heading": "Results That Redefine Markets"
+        },
+        {
+          "heading": "What our clients say about TMG"
+        },
+        {
+          "heading": "Medical Trials Company"
+        },
+        {
+          "heading": "FlowTex Energy"
+        },
+        {
+          "heading": "Fintech Startup"
+        },
+        {
+          "heading": "The Previvor Foundation"
+        },
+        {
+          "heading": "SERVICES"
+        },
+        {
+          "heading": "INDUSTRIES"
+        },
+        {
+          "heading": "CAPABILITIES"
+        },
+        {
+          "heading": "RESOURCES"
+        }
+      ],
+      "paragraphs": [
+        "Advertising systems connected by intelligence infrastructure",
+        "In an era of noise, precision is the only currency. TMG combines strategy, creative, media buying, analytics, automation, and intelligence backbones to help brands spend smarter and grow with confidence.",
+        "Paid media deployment and optimization support for approved campaign plans: budget movement, bid adjustments, creative rotation, and performance feedback.",
+        "End-to-end marketing operations automation, from lead nurturing and customer journey orchestration to content distribution and attribution modeling.",
+        "Creative and campaign support layer for turning strategy into structured briefs, tests, variants, reporting, and repeatable execution.",
+        "Market and performance intelligence for reading customer behavior, competitive signals, and campaign data before making the next media decision.",
+        "Our advertising strategies, paired with our intelligence platform, help clients grow across healthcare, finance, technology, real estate, and energy. These are real results from real clients.",
+        "Average return on ad spend across clients",
+        "Average decrease in customer acquisition cost",
+        "Healthcare, finance, real estate, energy, and more"
+      ],
+      "phones": [
+        "348-7753434",
+        "888-6021919"
+      ],
+      "emails": [],
+      "image_urls": [
+        "https://tmg.agency/tmglogo.svg",
+        "https://tmg.agency/images/earth-night-lights.jpg",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Fforcepoint.png&amp;w=640&amp;q=75",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Fjecobra-aviation.png&amp;w=640&amp;q=75",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Fauntie-annes.png&amp;w=640&amp;q=75",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Fqualico.png&amp;w=640&amp;q=75",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Fnovak-capital.png&amp;w=640&amp;q=75",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Fadvanced-medical-trials.png&amp;w=640&amp;q=75",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Frestart.png&amp;w=640&amp;q=75",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Fthe-previvor.png&amp;w=640&amp;q=75",
+        "https://tmg.agency/logos/thryve-care.svg",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Fbe-resources.png&amp;w=640&amp;q=75"
+      ],
+      "logo_urls": [
+        "https://tmg.agency/tmglogo.svg",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Fforcepoint.png&amp;w=640&amp;q=75",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Fjecobra-aviation.png&amp;w=640&amp;q=75",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Fauntie-annes.png&amp;w=640&amp;q=75",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Fqualico.png&amp;w=640&amp;q=75",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Fnovak-capital.png&amp;w=640&amp;q=75",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Fadvanced-medical-trials.png&amp;w=640&amp;q=75",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Frestart.png&amp;w=640&amp;q=75",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Fthe-previvor.png&amp;w=640&amp;q=75",
+        "https://tmg.agency/logos/thryve-care.svg",
+        "https://tmg.agency/_next/image?url=%2Flogos%2Fbe-resources.png&amp;w=640&amp;q=75"
+      ]
+    },
+    "look_tokens": {
+      "background": "#f4f1ea",
+      "text": "#161513",
+      "muted": "#6a655c",
+      "display_font": "Instrument Serif, Georgia, serif",
+      "body_font": "Instrument Sans, Inter, system-ui, sans-serif",
+      "radius_px": 4,
+      "hero_is_large_photo": true,
+      "motion": false,
+      "source": "niche_default",
+      "note": "ERROR: LOOK_URL_OFF_LIBRARY host `palantir.com` is not a curated LOOK (job-41 Palantir class). Do not invent that brand's UI. LOOK_FETCH_FAILED for https://www.palantir.com/ (source=https://www.palantir.com/) \u2014 tokens/screenshots missing or unusable. Falling back to niche `agency` library craft (https://cuberto.com, https://basement.studio, https://nor.ma). Agency \u2192 cuberto/basement/norma; hospitality/real_estate \u2192 Casa/Base. Do not silently reuse a wrong vertical; do not apply true black, Barlow Condensed, or radius 0.",
+      "inferred_niche": "agency",
+      "type_scale": {
+        "display": 56,
+        "h1": 44,
+        "h2": 32,
+        "body": 17,
+        "scale_ratio": 1.22,
+        "leading": "normal",
+        "note": "agency/professional: editorial, measured, not a SaaS bento"
+      },
+      "match_url": "https://www.palantir.com/",
+      "look_fetch_error": "LOOK_URL_OFF_LIBRARY host `palantir.com` is not a curated LOOK (job-41 Palantir class). Do not invent that brand's UI. LOOK_FETCH_FAILED for https://www.palantir.com/ (source=https://www.palantir.com/) \u2014 tokens/screenshots missing or unusable.",
+      "look_fetch_source": "off_library"
+    },
+    "design_dna": {
+      "url": "https://www.palantir.com/",
+      "type_scale": {
+        "display": 56,
+        "h1": 44,
+        "h2": 32,
+        "body": 17,
+        "scale_ratio": 1.22,
+        "leading": "normal",
+        "note": "agency/professional: editorial, measured, not a SaaS bento"
+      },
+      "hero_grammar": "photo with info plate",
+      "section_pad_px": 96,
+      "radius_px": 0,
+      "button_style": "radius 4px",
+      "accent_color": "",
+      "letter_spacing_px": 0,
+      "motion": false,
+      "photography": "one strong photograph or their work; no metric theater, no logo salad of fake clients",
+      "density": "measured editorial, case or work bands, no 0+ grids",
+      "nav": "wordmark left, work/services + about + contact, one CTA",
+      "forbidden": "true black + Barlow Condensed (SpaceX default); Shadcn Space demo routes (/hero-01, /navbar-01); 0+/0x/0% metric theater; invented Trusted by N companies; Unsplash/Pexels people when they have real photos; copying Casa/Superpower/NOR.MA offers, cities, or memberships"
+    }
+  }
+}

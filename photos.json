@@ -1,0 +1,62 @@
+{
+  "files": [
+    {
+      "role": "hero",
+      "url": "https://tmg.agency/images/earth-night-lights.jpg",
+      "local": "photos/hero-0.jpg",
+      "ok": true,
+      "src": "/photos/hero-0.jpg"
+    },
+    {
+      "role": "logo",
+      "url": "https://tmg.agency/tmglogo.svg",
+      "local": "photos/logo-0.svg",
+      "ok": true,
+      "src": "/photos/logo-0.svg"
+    },
+    {
+      "role": "logo",
+      "url": "https://tmg.agency/_next/image?url=%2Flogos%2Fforcepoint.png&w=640&q=75",
+      "local": "photos/logo-1.png",
+      "ok": true,
+      "src": "/photos/logo-1.png"
+    },
+    {
+      "role": "logo",
+      "url": "https://tmg.agency/_next/image?url=%2Flogos%2Fjecobra-aviation.png&w=640&q=75",
+      "local": "photos/logo-2.png",
+      "ok": true,
+      "src": "/photos/logo-2.png"
+    },
+    {
+      "role": "logo",
+      "url": "https://tmg.agency/_next/image?url=%2Flogos%2Fauntie-annes.png&w=640&q=75",
+      "local": "photos/logo-3.png",
+      "ok": true,
+      "src": "/photos/logo-3.png"
+    },
+    {
+      "role": "logo",
+      "url": "https://tmg.agency/_next/image?url=%2Flogos%2Fqualico.png&w=640&q=75",
+      "local": "photos/logo-4.png",
+      "ok": true,
+      "src": "/photos/logo-4.png"
+    },
+    {
+      "role": "logo",
+      "url": "https://tmg.agency/_next/image?url=%2Flogos%2Fnovak-capital.png&w=640&q=75",
+      "local": "photos/logo-5.png",
+      "ok": true,
+      "src": "/photos/logo-5.png"
+    },
+    {
+      "role": "logo",
+      "url": "https://tmg.agency/_next/image?url=%2Flogos%2Fadvanced-medical-trials.png&w=640&q=75",
+      "local": "photos/logo-6.png",
+      "ok": true,
+      "src": "/photos/logo-6.png"
+    }
+  ],
+  "ok": 8,
+  "source": "https://tmg.agency/"
+}

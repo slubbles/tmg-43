@@ -1,0 +1,9 @@
+.grok/
+.grok_job_envelope.json
+.mcp.json
+.progress.json
+.genes*
+harness_trace.jsonl
+photos/
+look_packet/
+*.log

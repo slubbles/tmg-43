@@ -1,0 +1,64 @@
+/* THEME.css — agency. Copy into app/globals.css after @import "tailwindcss". */
+/* Do not replace with a true-black condensed-sans default. */
+/* Delete Geist from app/layout.tsx. Use LAYOUT_FONTS.tsx. */
+@import url("https://fonts.googleapis.com/css2?family=Instrument+Serif:wght@400;500;600;700&family=Instrument+Sans:wght@400;500;600;700&display=swap");
+@theme {
+  --color-background: #f4f1ea;
+  --color-foreground: #161513;
+  --color-muted: #6a655c;
+  --font-display: Instrument Serif, Georgia, serif;
+  --font-sans: Instrument Sans, Inter, system-ui, sans-serif;
+  --radius-md: 4px;
+}
+:root {
+  --bg: #f4f1ea;
+  --fg: #161513;
+  --muted: #6a655c;
+  --display: 56px;
+  --h1: 44px;
+  --h2: 32px;
+  --body: 17px;
+  --pad: 96px;
+  --radius: 4px;
+  --font-display: Instrument Serif, Georgia, serif;
+  --font-body: Instrument Sans, Inter, system-ui, sans-serif;
+}
+html, body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-body);
+  font-size: 17px;
+}
+h1, .display {
+  font-family: var(--font-display);
+  font-size: 56px;
+  line-height: 1.05;
+}
+h2 {
+  font-family: var(--font-display);
+  font-size: 32px;
+}
+p, .measure {
+  font-size: 17px;
+  max-width: 70ch;
+}
+section, .band {
+  padding-top: 96px;
+  padding-bottom: 96px;
+}
+.hero, [data-hero] {
+  min-height: 80vh;
+  background-size: cover;
+  background-position: center;
+}
+.hero img, [data-hero] img {
+  width: 100%;
+  min-height: 80vh;
+  object-fit: cover;
+}
+@media (max-width: 640px) {
+  section, .band {
+    padding-top: 67px;
+    padding-bottom: 67px;
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "background": "#f4f1ea",
+  "text": "#161513",
+  "muted": "#6a655c",
+  "display_font": "Instrument Serif, Georgia, serif",
+  "body_font": "Instrument Sans, Inter, system-ui, sans-serif",
+  "radius_px": 4,
+  "hero_is_large_photo": true,
+  "motion": false,
+  "source": "niche_default",
+  "note": "ERROR: LOOK_URL_OFF_LIBRARY host `palantir.com` is not a curated LOOK (job-41 Palantir class). Do not invent that brand's UI. LOOK_FETCH_FAILED for https://www.palantir.com/ (source=https://www.palantir.com/) \u2014 tokens/screenshots missing or unusable. Falling back to niche `agency` library craft (https://cuberto.com, https://basement.studio, https://nor.ma). Agency \u2192 cuberto/basement/norma; hospitality/real_estate \u2192 Casa/Base. Do not silently reuse a wrong vertical; do not apply true black, Barlow Condensed, or radius 0.",
+  "inferred_niche": "agency",
+  "type_scale": {
+    "display": 56,
+    "h1": 44,
+    "h2": 32,
+    "body": 17,
+    "scale_ratio": 1.22,
+    "leading": "normal",
+    "note": "agency/professional: editorial, measured, not a SaaS bento"
+  },
+  "match_url": "https://www.palantir.com/",
+  "look_fetch_error": "LOOK_URL_OFF_LIBRARY host `palantir.com` is not a curated LOOK (job-41 Palantir class). Do not invent that brand's UI. LOOK_FETCH_FAILED for https://www.palantir.com/ (source=https://www.palantir.com/) \u2014 tokens/screenshots missing or unusable.",
+  "look_fetch_source": "off_library"
+}

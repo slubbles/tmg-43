@@ -1,0 +1,276 @@
+@import "tailwindcss";
+@source "../app/**/*.{ts,tsx,js,jsx}";
+@source "../components/**/*.{ts,tsx,js,jsx}";
+@source "../lib/**/*.{ts,tsx,js,jsx}";
+@source "./**/*.{ts,tsx,js,jsx}";
+
+/* Fonts load via next/font (Instrument Serif + Instrument Sans) in app/layout.tsx. */
+
+/* THEME.css — agency. Paste after @import "tailwindcss". */
+/* Do not replace with a true-black condensed-sans default. */
+@theme {
+  --color-background: #f4f1ea;
+  --color-foreground: #161513;
+  --color-muted: #6a655c;
+  --font-display: Instrument Serif, Georgia, serif;
+  --font-sans: Instrument Sans, Inter, system-ui, sans-serif;
+  --radius-md: 4px;
+}
+:root {
+  --bg: #f4f1ea;
+  --fg: #161513;
+  --muted: #6a655c;
+  --display: 56px;
+  --h1: 44px;
+  --h2: 32px;
+  --body: 17px;
+  --pad: 96px;
+  --radius: 4px;
+  --font-display: Instrument Serif, Georgia, serif;
+  --font-body: Instrument Sans, Inter, system-ui, sans-serif;
+  --accent: #e8a23c;
+  --accent-ink: #241d12;
+  --dark: #0b0a08;
+  --dark-2: #12100c;
+  --cream-2: #ece7db;
+  --line: rgba(22, 21, 19, 0.14);
+  --line-dark: rgba(244, 241, 234, 0.14);
+}
+html, body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-body);
+  font-size: 17px;
+}
+h1, .display {
+  font-family: var(--font-display);
+  font-size: 56px;
+  line-height: 1.05;
+}
+h2 {
+  font-family: var(--font-display);
+  font-size: 32px;
+}
+p, .measure {
+  font-size: 17px;
+  max-width: 70ch;
+}
+section, .band {
+  padding-top: 96px;
+  padding-bottom: 96px;
+}
+.hero, [data-hero] {
+  min-height: 80vh;
+  background-size: cover;
+  background-position: center;
+}
+.hero img, [data-hero] img {
+  width: 100%;
+  min-height: 80vh;
+  object-fit: cover;
+}
+@media (max-width: 640px) {
+  section, .band {
+    padding-top: 67px;
+    padding-bottom: 67px;
+  }
+  :root {
+    --pad: 67px;
+  }
+}
+
+/* ---------- Craft layer (look_packet: cuberto primary, basement secondary) ---------- */
+body {
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+a {
+  color: inherit;
+}
+.band--dark {
+  background: var(--dark);
+  color: #f4f1ea;
+}
+.band--dark h2,
+.band--dark .display {
+  color: #f4f1ea;
+}
+.band--cream-2 {
+  background: var(--cream-2);
+}
+.band--soft {
+  background: #faf8f3;
+}
+
+/* Serif display treatment: firm italic on one key word (Instrument Serif has no italic
+   slot wired, so synthesized italic reads deliberate at display sizes). */
+.display-em {
+  font-style: italic;
+  color: var(--accent);
+}
+
+/* Small caps utility labels (basement-style index lines) */
+.kicker {
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.band--dark .kicker {
+  color: rgba(244, 241, 234, 0.6);
+}
+.kicker--accent {
+  color: var(--accent);
+}
+
+/* Rules / index lines */
+.rule {
+  border: 0;
+  border-top: 1px solid var(--line);
+  margin: 0;
+}
+.band--dark .rule {
+  border-top-color: var(--line-dark);
+}
+.idx {
+  font-variant-numeric: tabular-nums;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+}
+.band--dark .idx {
+  color: rgba(244, 241, 234, 0.5);
+}
+
+/* Buttons — radius 4px per craft */
+.btn {
+  display: inline-block;
+  font-family: var(--font-body);
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  padding: 15px 30px;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: opacity 0.2s ease, background 0.2s ease, color 0.2s ease;
+}
+.btn--ink {
+  background: var(--fg);
+  color: #f4f1ea;
+}
+.btn--ink:hover {
+  opacity: 0.85;
+}
+.btn--accent {
+  background: var(--accent);
+  color: var(--accent-ink);
+}
+.btn--accent:hover {
+  opacity: 0.9;
+}
+.btn--ghost-light {
+  border: 1px solid rgba(244, 241, 234, 0.35);
+  color: #f4f1ea;
+  background: transparent;
+}
+.btn--ghost-light:hover {
+  border-color: rgba(244, 241, 234, 0.8);
+}
+.btn--ghost-ink {
+  border: 1px solid rgba(22, 21, 19, 0.3);
+  color: var(--fg);
+  background: transparent;
+}
+.btn--ghost-ink:hover {
+  border-color: var(--fg);
+}
+
+/* Text links with underline offset (Cuberto-style editorial links) */
+.tlink {
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 5px;
+  transition: text-decoration-color 0.2s ease, color 0.2s ease;
+}
+.tlink:hover {
+  text-decoration-color: var(--fg);
+}
+
+/* Fields — contact form */
+.field {
+  width: 100%;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  padding: 18px 2px 12px;
+  font-size: 17px;
+  font-family: var(--font-body);
+  color: var(--fg);
+  outline: none;
+  transition: border-color 0.2s ease;
+  border-radius: 0;
+}
+.field:focus {
+  border-bottom-color: var(--accent);
+}
+.field::placeholder {
+  color: rgba(22, 21, 19, 0.4);
+}
+
+/* Dark-plate variant of fields (used on dark bands) */
+.band--dark .field {
+  border-bottom-color: var(--line-dark);
+  color: #f4f1ea;
+}
+.band--dark .field::placeholder {
+  color: rgba(244, 241, 234, 0.45);
+}
+.band--dark .field:focus {
+  border-bottom-color: var(--accent);
+}
+
+/* Logo plates — hard white so dark wordmarks survive on dark bands */
+.logo-plate {
+  background: #ffffff;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.logo-plate img {
+  max-width: 68%;
+  max-height: 62%;
+  object-fit: contain;
+}
+
+/* Wordmark */
+.wordmark {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: var(--fg);
+  font-family: var(--font-body);
+  font-weight: 700;
+  font-size: 19px;
+  letter-spacing: 0.02em;
+}
+.band--dark .wordmark {
+  color: #f4f1ea;
+}
+
+/* Band grid helpers (max 3 equal cards per row rule is enforced per-band markup) */
+.pad-band {
+  padding-left: var(--pad);
+  padding-right: var(--pad);
+}
+
+::selection {
+  background: var(--accent);
+  color: var(--accent-ink);
+}

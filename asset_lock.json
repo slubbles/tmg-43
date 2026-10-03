@@ -1,0 +1,19 @@
+{
+  "hero_url": "https://tmg.agency/images/earth-night-lights.jpg",
+  "logo_urls": [
+    "https://tmg.agency/tmglogo.svg",
+    "https://tmg.agency/_next/image?url=%2Flogos%2Fforcepoint.png&amp;w=640&amp;q=75",
+    "https://tmg.agency/_next/image?url=%2Flogos%2Fjecobra-aviation.png&amp;w=640&amp;q=75",
+    "https://tmg.agency/_next/image?url=%2Flogos%2Fauntie-annes.png&amp;w=640&amp;q=75",
+    "https://tmg.agency/_next/image?url=%2Flogos%2Fqualico.png&amp;w=640&amp;q=75",
+    "https://tmg.agency/_next/image?url=%2Flogos%2Fnovak-capital.png&amp;w=640&amp;q=75",
+    "https://tmg.agency/_next/image?url=%2Flogos%2Fadvanced-medical-trials.png&amp;w=640&amp;q=75",
+    "https://tmg.agency/_next/image?url=%2Flogos%2Frestart.png&amp;w=640&amp;q=75",
+    "https://tmg.agency/_next/image?url=%2Flogos%2Fthe-previvor.png&amp;w=640&amp;q=75",
+    "https://tmg.agency/logos/thryve-care.svg",
+    "https://tmg.agency/_next/image?url=%2Flogos%2Fbe-resources.png&amp;w=640&amp;q=75"
+  ],
+  "band_urls": [],
+  "forbid_stock": true,
+  "source": "https://tmg.agency/"
+}
