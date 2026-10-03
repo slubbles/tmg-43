@@ -4,6 +4,6 @@
 .progress.json
 .genes*
 harness_trace.jsonl
-photos/
+/photos/
 look_packet/
 *.log
