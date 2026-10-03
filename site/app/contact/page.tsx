@@ -49,7 +49,7 @@ export default function ContactPage() {
         style={{ padding: "220px var(--pad, 96px) 104px" }}
       >
         <div style={{ maxWidth: 1440 }}>
-          <div className="kicker kicker--accent">Let's Talk</div>
+          <div className="kicker kicker--accent">Let’s Talk</div>
           <h1
             style={{
               fontFamily: "var(--font-display)",
@@ -213,7 +213,7 @@ export default function ContactPage() {
             <span className="display-em" style={{ fontStyle: "italic" }}>
               extraordinary
             </span>
-            ? Let's start the conversation.
+            ? Let’s start the conversation.
           </h2>
           <div style={{ display: "grid", gap: 16 }}>
             <a href="tel:8886021919" style={{ fontFamily: "var(--font-display)", fontSize: 40, textDecoration: "none", color: "var(--fg)", width: "fit-content" }}>

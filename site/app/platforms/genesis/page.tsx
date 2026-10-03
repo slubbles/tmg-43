@@ -5,7 +5,7 @@ import { CaseBand, CloseBand } from "../../components/Inner";
 export const metadata = {
   title: "TMG Genesis | Creative & Campaign Support | TMG",
   description:
-    "TMG Genesis supports TMG's creative and campaign work by turning strategy into structured briefs, tests, variants, reporting, and repeatable execution.",
+    "TMG Genesis supports TMG’s creative and campaign work by turning strategy into structured briefs, tests, variants, reporting, and repeatable execution.",
 };
 
 const CAPS = [
@@ -54,7 +54,7 @@ export default function GenesisPage() {
                 <span className="display-em" style={{ fontStyle: "italic" }}>Genesis</span>
               </h1>
               <p style={{ fontSize: 18, lineHeight: 1.6, color: "rgba(244,241,234,0.82)", maxWidth: "52ch", margin: "26px 0 0" }}>
-                TMG Genesis supports TMG's creative and campaign work by turning
+                TMG Genesis supports TMG’s creative and campaign work by turning
                 strategy into structured briefs, tests, variants, reporting, and
                 repeatable execution.
               </p>
@@ -104,9 +104,9 @@ export default function GenesisPage() {
 
       <CaseBand
         client="Non-Profit Health Foundation"
-        sector="Non-Profit / Women's Health"
-        challenge="A digital women's health platform needed to transform its online presence to better serve young women affected by breast cancer. The existing platform lacked the sophistication and functionality needed to effectively reach and educate the audience."
-        approach="TMG translated the foundation's unique design vision into reality while adding sophisticated functionality that streamlined operations. Comprehensive training ensured the team could independently maintain and update everything long-term."
+        sector="Non-Profit / Women’s Health"
+        challenge="A digital women’s health platform needed to transform its online presence to better serve young women affected by breast cancer. The existing platform lacked the sophistication and functionality needed to effectively reach and educate the audience."
+        approach="TMG translated the foundation’s unique design vision into reality while adding sophisticated functionality that streamlined operations. Comprehensive training ensured the team could independently maintain and update everything long-term."
         results="Increased fundraising success, a stronger professional presence, and expanded reach to support more young women in their breast cancer prevention journey."
         tags={["Increased Fundraising", "Expanded Reach", "Team Empowerment", "Industry Leadership"]}
         ctaLabel="Schedule Consultation"

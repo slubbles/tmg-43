@@ -24,7 +24,7 @@ const data: IndustryPageData = {
       { v: "PLG", k: "Product-led growth hitting a ceiling, with stagnant activation rates and trial-to-paid conversion?" },
       { v: "Broken", k: "Marketing attribution broken across complex buyer journeys with many touchpoints before conversion?" },
     ],
-    statement: "SaaS growth isn't about running ads. It's about building a predictable, scalable revenue engine.",
+    statement: "SaaS growth isn’t about running ads. It’s about building a predictable, scalable revenue engine.",
   },
   solutions: [
     { n: "01", t: "Product-Led Growth Acceleration", d: "Optimize every stage of your PLG motion from first touch to product activation. AI-powered experimentation identifies friction points, improves onboarding flows, and increases trial-to-paid conversion through intelligent nudges and personalized in-app messaging.", tags: ["PLG activation motion"] },

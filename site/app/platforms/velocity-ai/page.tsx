@@ -5,7 +5,7 @@ import { CaseBand, CloseBand } from "../../components/Inner";
 export const metadata = {
   title: "TMG Velocity | Paid Media Deployment | TMG",
   description:
-    "TMG Velocity supports TMG's paid media work by helping deploy approved campaigns, move budget, adjust bids, rotate creative, and return performance feedback to the advertising team.",
+    "TMG Velocity supports TMG’s paid media work by helping deploy approved campaigns, move budget, adjust bids, rotate creative, and return performance feedback to the advertising team.",
 };
 
 const STEPS = [
@@ -78,7 +78,7 @@ export default function VelocityPage() {
               <span className="display-em" style={{ fontStyle: "italic" }}>Velocity</span>
             </h1>
             <p style={{ fontSize: 18, lineHeight: 1.6, color: "rgba(244,241,234,0.82)", maxWidth: "60ch", margin: "26px 0 0" }}>
-              TMG Velocity supports TMG's paid media work by helping deploy
+              TMG Velocity supports TMG’s paid media work by helping deploy
               approved campaigns, move budget, adjust bids, rotate creative, and
               return performance feedback to the advertising team.
             </p>
@@ -149,7 +149,7 @@ export default function VelocityPage() {
         client="Energy & Investment Company"
         sector="Energy / Oil & Gas"
         challenge="After spending over $100,000 with a larger Dallas-based agency over six months with little return on investment, this energy company was nearly ready to abandon social media marketing. They needed qualified investor leads to fund drilling and development projects."
-        approach="TMG built a transparent, results-driven social media marketing and advertising system from the ground up, handling onboarding, design, marketing materials, and ongoing campaign management at a fraction of the prior agency's cost."
+        approach="TMG built a transparent, results-driven social media marketing and advertising system from the ground up, handling onboarding, design, marketing materials, and ongoing campaign management at a fraction of the prior agency’s cost."
         results="Within 6 weeks of the initial campaign launch, TMG generated over 450 qualified leads and helped drive over $1MM in initial raise. The relationship continued to compound: over 16 months, TMG helped bring in more than 110 new investing partners, over $15MM in new raise, an 86% cost reduction, and a 33x ROAS."
         metrics={[
           { v: "110+", k: "New Partners" },

@@ -34,9 +34,9 @@ const data: IndustryPageData = {
   ],
   caseStudy: {
     client: "The Previvor Foundation",
-    sector: "Non-Profit / Women's Health",
-    challenge: "A digital women's health platform needed to transform their online presence to better serve young women affected by breast cancer. Their existing platform lacked the sophistication and functionality needed to effectively reach and educate their audience, and the team had no way to independently manage or update the site.",
-    approach: "TMG went beyond simple website development, translating the foundation's unique design vision into reality while adding sophisticated functionality that streamlined operations. Comprehensive training ensured the team could independently maintain and update everything long-term.",
+    sector: "Non-Profit / Women’s Health",
+    challenge: "A digital women’s health platform needed to transform their online presence to better serve young women affected by breast cancer. Their existing platform lacked the sophistication and functionality needed to effectively reach and educate their audience, and the team had no way to independently manage or update the site.",
+    approach: "TMG went beyond simple website development, translating the foundation’s unique design vision into reality while adding sophisticated functionality that streamlined operations. Comprehensive training ensured the team could independently maintain and update everything long-term.",
     results: "Increased fundraising success, enhanced professional presence, and expanded reach to support more young women in their breast cancer prevention journey.",
     quote: "TMG created an intuitive, professional platform that revolutionized how we serve young women affected by breast cancer. Their work helped increase fundraising, strengthen our professional presence, and expand our reach to support more women who need these resources.",
     who: "Allyn, Founder",

@@ -5,7 +5,7 @@ import { CaseBand, CloseBand } from "../../components/Inner";
 export const metadata = {
   title: "TMG Oracle | Market & Performance Intelligence | TMG",
   description:
-    "TMG Oracle supports TMG's media decisions with market and performance intelligence for reading customer behavior, competitive signals, and campaign data before the next campaign move.",
+    "TMG Oracle supports TMG’s media decisions with market and performance intelligence for reading customer behavior, competitive signals, and campaign data before the next campaign move.",
 };
 
 const READ = [
@@ -42,7 +42,7 @@ export default function OraclePage() {
             <span className="display-em" style={{ fontStyle: "italic" }}>Oracle</span>
           </h1>
           <p style={{ fontSize: 18, lineHeight: 1.6, color: "rgba(244,241,234,0.8)", maxWidth: "58ch", margin: "26px 0 0" }}>
-            TMG Oracle supports TMG's media decisions with market and
+            TMG Oracle supports TMG’s media decisions with market and
             performance intelligence for reading customer behavior, competitive
             signals, and campaign data before the next campaign move.
           </p>
@@ -112,7 +112,7 @@ export default function OraclePage() {
         sector="Financial Technology"
         challenge="A B2C fintech startup needed to acquire customers fast to demonstrate product-market fit. After engaging 5 different digital marketing agencies, all of whom promised a lot but failed to deliver, the management team was skeptical that any agency could produce results."
         approach="TMG took a practical, transparent approach, spending hours with the team to explain what would be done, why specific strategies were proposed, and what to expect. Rather than upselling unnecessary services, TMG advised what the team could handle internally to save costs and focused their own efforts where they could deliver the most impact."
-        results="TMG's approach to business can be expressed in 2 words: trusted partnership. The team was absolutely delighted with the business results TMG helped them achieve."
+        results="TMG’s approach to business can be expressed in 2 words: trusted partnership. The team was absolutely delighted with the business results TMG helped them achieve."
         quote="We engaged 5 different digital marketing agencies who promised a lot, but failed to deliver. By the end of my first meeting with TMG, I was impressed with their depth of knowledge and subject matter expertise. We were absolutely delighted with the business results."
         who="Carl, CMO"
         org="Fintech Startup"
@@ -130,7 +130,7 @@ export default function OraclePage() {
           <p style={{ fontSize: 17, lineHeight: 1.65, color: "var(--muted)", margin: "20px 0 0", maxWidth: "62ch" }}>
             TMG Oracle helps evaluate market opportunities based on size,
             competitive intensity, timing, and strategic fit. The output is a
-            clearer set of inputs for TMG's media, creative, and lifecycle
+            clearer set of inputs for TMG’s media, creative, and lifecycle
             teams.
           </p>
           <div style={{ display: "flex", gap: 10, flexWrap: "wrap", marginTop: 32 }}>

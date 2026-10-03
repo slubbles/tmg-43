@@ -32,7 +32,7 @@ const data: ServicePageData = {
     { n: "04", t: "Automated Reporting", d: "No more manual report building. Our platform generates executive summaries, performance dashboards, and detailed analytics automatically. Scheduled delivery means stakeholders always have current insights." },
   ],
   quote: {
-    q: "TMG's approach to business can be expressed in 2 words, trusted partnership. We were absolutely delighted with the business results TMG helped us achieve.",
+    q: "TMG’s approach to business can be expressed in 2 words, trusted partnership. We were absolutely delighted with the business results TMG helped us achieve.",
     who: "Carl, CMO",
     org: "Fintech Startup",
   },

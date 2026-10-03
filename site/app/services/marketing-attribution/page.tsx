@@ -32,7 +32,7 @@ const data: ServicePageData = {
     { n: "04", t: "Journey & Validation Layer", d: "Models account for customer quality and are validated against holdout data, so attribution weights stay honest as journeys evolve." },
   ],
   quote: {
-    q: "TMG's approach to business can be expressed in 2 words, trusted partnership. We were absolutely delighted with the business results TMG helped us achieve.",
+    q: "TMG’s approach to business can be expressed in 2 words, trusted partnership. We were absolutely delighted with the business results TMG helped us achieve.",
     who: "Carl, CMO",
     org: "Fintech Startup",
   },

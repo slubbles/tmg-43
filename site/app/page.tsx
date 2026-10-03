@@ -236,7 +236,7 @@ export default function Home() {
             {
               href: "/case-studies",
               client: "The Previvor Foundation",
-              sector: "Non-Profit / Women's Health",
+              sector: "Non-Profit / Women’s Health",
               note: "Platform rebuild that expanded reach and increased fundraising",
             },
           ].map((c, i) => (
@@ -286,7 +286,7 @@ export default function Home() {
             {[
               {
                 quote:
-                  "TMG developed a marketing campaign and a scheduling process for acquiring patients that was so successful, we ended up as the top producing site in the country for our first clinical trial. Many studies later, and not only are their efforts still producing stellar results in an ever changing landscape, but they have the same dedication and focus on results that an equity owner would possess. I can't say enough good things about TMG. Don't miss an opportunity to work with their amazing talent.",
+                  "TMG developed a marketing campaign and a scheduling process for acquiring patients that was so successful, we ended up as the top producing site in the country for our first clinical trial. Many studies later, and not only are their efforts still producing stellar results in an ever changing landscape, but they have the same dedication and focus on results that an equity owner would possess. I can’t say enough good things about TMG. Don’t miss an opportunity to work with their amazing talent.",
                 who: "Tony, CEO",
                 org: "Medical Trials Company",
               },
@@ -298,7 +298,7 @@ export default function Home() {
               },
               {
                 quote:
-                  "We engaged 5 different digital marketing agencies whom promised a lot, but failed to deliver. By the end of my first meeting with TMG, I was impressed with their depth of knowledge and subject matter expertise. TMG's approach to business can be expressed in 2 words, trusted partnership. We were absolutely delighted with the business results TMG helped us achieve.",
+                  "We engaged 5 different digital marketing agencies whom promised a lot, but failed to deliver. By the end of my first meeting with TMG, I was impressed with their depth of knowledge and subject matter expertise. TMG’s approach to business can be expressed in 2 words, trusted partnership. We were absolutely delighted with the business results TMG helped us achieve.",
                 who: "Carl, CMO",
                 org: "Fintech Startup",
               },

@@ -36,7 +36,7 @@ const data: ServicePageData = {
     client: "Energy & Investment Company",
     sector: "Energy / Oil & Gas",
     challenge: "After spending over $100,000 with a larger Dallas-based agency over six months with little return on investment, this energy company was disillusioned and nearly ready to abandon social media marketing altogether. They needed qualified investor leads to fund drilling and development projects.",
-    approach: "TMG built a transparent, results-driven social media marketing and advertising system from the ground up, handling onboarding, design, marketing materials, and ongoing campaign management at a fraction of the prior agency's cost.",
+    approach: "TMG built a transparent, results-driven social media marketing and advertising system from the ground up, handling onboarding, design, marketing materials, and ongoing campaign management at a fraction of the prior agency’s cost.",
     results: "Within 6 weeks of the initial campaign launch, TMG generated over 450 qualified leads and helped drive over $1MM in initial raise. Over 16 months: more than 110 new investing partners, over $15MM in new raise, an 86% cost reduction, and a 33x ROAS.",
     metrics: [
       { v: "450+", k: "Qualified Leads" },

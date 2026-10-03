@@ -26,7 +26,7 @@ const data: ServicePageData = {
     statement: "CRM systems full of records. Analytics platforms full of metrics. But critical business questions go unanswered because data collection is not intelligence generation.",
   },
   pillars: [
-    { n: "01", t: "Lifetime Value Prediction", d: "AI models predict each customer's total lifetime value at acquisition. Prioritize acquisition spend toward high-LTV segments and personalize experiences based on predicted value." },
+    { n: "01", t: "Lifetime Value Prediction", d: "AI models predict each customer’s total lifetime value at acquisition. Prioritize acquisition spend toward high-LTV segments and personalize experiences based on predicted value." },
     { n: "02", t: "Churn Prediction & Prevention", d: "Identify customers at risk of churning before they leave. Machine learning analyzes behavioral signals to predict churn probability, triggering retention campaigns automatically." },
     { n: "03", t: "Purchase Propensity Scoring", d: "Know which prospects are most likely to buy and when. Models score every lead by conversion probability, helping sales prioritize and marketing target efficiently." },
     { n: "04", t: "Behavioral Segmentation", d: "Move beyond demographics to behavior-based segments. Group customers by actual actions, engagement patterns, and value indicators rather than arbitrary demographic criteria." },

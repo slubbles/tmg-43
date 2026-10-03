@@ -33,9 +33,9 @@ const data: ServicePageData = {
   ],
   caseStudy: {
     client: "Non-Profit Health Foundation",
-    sector: "Non-Profit / Women's Health",
-    challenge: "A digital women's health platform needed to transform their online presence to better serve young women affected by breast cancer. Their existing platform lacked the sophistication and functionality needed to effectively reach and educate their audience.",
-    approach: "TMG went beyond simple website development, translating the foundation's unique design vision into reality while adding sophisticated functionality that streamlined operations. Comprehensive training ensured the team could independently maintain and update everything long-term.",
+    sector: "Non-Profit / Women’s Health",
+    challenge: "A digital women’s health platform needed to transform their online presence to better serve young women affected by breast cancer. Their existing platform lacked the sophistication and functionality needed to effectively reach and educate their audience.",
+    approach: "TMG went beyond simple website development, translating the foundation’s unique design vision into reality while adding sophisticated functionality that streamlined operations. Comprehensive training ensured the team could independently maintain and update everything long-term.",
     results: "Increased fundraising success, enhanced professional presence, and expanded reach to support more young women in their breast cancer prevention journey.",
     quote: "TMG demonstrated remarkable attention to detail in translating our unique design vision into reality while adding sophisticated functionality that has streamlined our operations.",
     who: "Allyn, Founder",

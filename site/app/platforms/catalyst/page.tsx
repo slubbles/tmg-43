@@ -5,7 +5,7 @@ import { CaseBand, CloseBand } from "../../components/Inner";
 export const metadata = {
   title: "TMG Catalyst | Marketing Ops Automation | TMG",
   description:
-    "TMG Catalyst supports TMG's advertising systems after attention turns into action: lead nurturing, customer journey orchestration, content distribution, and attribution modeling.",
+    "TMG Catalyst supports TMG’s advertising systems after attention turns into action: lead nurturing, customer journey orchestration, content distribution, and attribution modeling.",
 };
 
 const CHAIN = "Capture → Qualify → Score → Nurture → Convert → Retain → Expand";
@@ -37,7 +37,7 @@ export default function CatalystPage() {
             <span className="display-em" style={{ fontStyle: "italic" }}>Catalyst</span>
           </h1>
           <p style={{ fontSize: 18, lineHeight: 1.6, color: "rgba(244,241,234,0.8)", maxWidth: "58ch", margin: "26px 0 0" }}>
-            TMG Catalyst supports TMG's advertising systems after attention
+            TMG Catalyst supports TMG’s advertising systems after attention
             turns into action: lead nurturing, customer journey orchestration,
             content distribution, and attribution modeling.
           </p>

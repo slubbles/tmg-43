@@ -18,7 +18,7 @@ const data: IndustryPageData = {
   dek: "Drive patient acquisition, engagement, and retention with AI-powered marketing strategies designed specifically for healthcare providers, medical device manufacturers, pharmaceutical companies, and life sciences organizations. Navigate complex compliance requirements while achieving exceptional ROI.",
   landscape: {
     h: "The Healthcare Marketing Landscape Is More Complex Than Ever",
-    intro: "Between strict regulations, patient privacy concerns, and rising acquisition costs, healthcare marketers face unique challenges that traditional approaches can't solve.",
+    intro: "Between strict regulations, patient privacy concerns, and rising acquisition costs, healthcare marketers face unique challenges that traditional approaches can’t solve.",
     rows: [
       { v: "Strict", k: "HIPAA compliance constraints: marketing technology and data practices must meet stringent privacy regulations, limiting personalization options and creating compliance risks." },
       { v: "Rising", k: "High patient acquisition costs: competition for patients is fierce, with acquisition costs rising while reimbursement rates continue to decline." },

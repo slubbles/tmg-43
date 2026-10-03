@@ -127,7 +127,7 @@ const SECTIONS: { h: string; body: React.ReactNode }[] = [
     ),
   },
   {
-    h: "7. Data Retention, Transfers, and Children's Privacy",
+    h: "7. Data Retention, Transfers, and Children’s Privacy",
     body: (
       <>
         <p style={{ fontSize: 16, lineHeight: 1.65, margin: "0 0 12px" }}>

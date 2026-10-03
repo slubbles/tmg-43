@@ -15,12 +15,12 @@ const data: CapabilityPageData = {
       <span className="display-em" style={{ fontStyle: "italic" }}>reports</span> again
     </>
   ),
-  dek: "Deploy always-on optimization systems that monitor campaign performance continuously and make adjustments every 15 minutes. Stop reacting to yesterday's data and start optimizing based on what is happening right now.",
+  dek: "Deploy always-on optimization systems that monitor campaign performance continuously and make adjustments every 15 minutes. Stop reacting to yesterday’s data and start optimizing based on what is happening right now.",
   statement: {
     intro: (
       <>
         Most teams make decisions based on{" "}
-        <span className="display-em" style={{ fontStyle: "italic" }}>yesterday's</span> reports.
+        <span className="display-em" style={{ fontStyle: "italic" }}>yesterday’s</span> reports.
       </>
     ),
     lead: "Our real-time optimization responds to market conditions as they happen",
@@ -36,7 +36,7 @@ const data: CapabilityPageData = {
     client: "Energy & Investment Company",
     sector: "Energy / Oil & Gas",
     challenge: "After spending over $100,000 with a larger Dallas-based agency over six months with little return on investment, this energy company was nearly ready to abandon social media marketing altogether.",
-    approach: "TMG built a transparent, results-driven advertising system from the ground up, with ongoing campaign management at a fraction of the prior agency's cost.",
+    approach: "TMG built a transparent, results-driven advertising system from the ground up, with ongoing campaign management at a fraction of the prior agency’s cost.",
     results: "Over 450 qualified leads within 6 weeks, $1MM+ initial raise, and over 16 months: 110+ new investing partners, $15MM+ new raise, 86% cost reduction, 33x ROAS.",
     metrics: [
       { v: "450+", k: "Qualified Leads" },

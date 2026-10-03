@@ -35,7 +35,7 @@ const data: ServicePageData = {
     client: "Energy & Investment Company",
     sector: "Energy / Oil & Gas",
     challenge: "After spending over $100,000 with a larger Dallas-based agency over six months with little return on investment, this energy company was disillusioned and nearly ready to abandon social media marketing altogether.",
-    approach: "TMG built a transparent, results-driven social media marketing and advertising system from the ground up, at a fraction of the prior agency's cost.",
+    approach: "TMG built a transparent, results-driven social media marketing and advertising system from the ground up, at a fraction of the prior agency’s cost.",
     results: "Over 450 qualified leads within 6 weeks, over $1MM in initial raise, and over 16 months: more than 110 new investing partners, $15MM+ in new raise, 86% cost reduction, 33x ROAS.",
     metrics: [
       { v: "33x", k: "Case Study ROAS" },

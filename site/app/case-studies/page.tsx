@@ -17,7 +17,7 @@ const CASES = [
     challenge:
       "After spending over $100,000 with a larger Dallas-based agency over six months with little return on investment, this energy company was disillusioned and nearly ready to abandon social media marketing altogether. They needed qualified investor leads to fund drilling and development projects.",
     approach:
-      "TMG built a transparent, results-driven social media marketing and advertising system from the ground up, handling onboarding, design, marketing materials, and ongoing campaign management at a fraction of the prior agency's cost.",
+      "TMG built a transparent, results-driven social media marketing and advertising system from the ground up, handling onboarding, design, marketing materials, and ongoing campaign management at a fraction of the prior agency’s cost.",
     results:
       "Within 6 weeks of the initial campaign launch, TMG generated over 450 qualified leads and helped drive over $1MM in initial raise. The relationship has continued to compound: over 16 months, TMG has now helped bring in more than 110 new investing partners, equating to over $15MM in new raise, an 86% cost reduction, and a 33x ROAS.",
     metrics: [
@@ -56,7 +56,7 @@ const CASES = [
     approach:
       "TMG developed a comprehensive marketing campaign paired with a scheduling process specifically designed for patient acquisition. The system combined targeted digital outreach with streamlined conversion workflows to move prospects from awareness to enrolled participants.",
     results:
-      "The campaign was so successful that the company became the #1 producing site in the country for their first clinical trial. Many studies later, TMG's efforts continue to produce stellar results in an ever-changing landscape.",
+      "The campaign was so successful that the company became the #1 producing site in the country for their first clinical trial. Many studies later, TMG’s efforts continue to produce stellar results in an ever-changing landscape.",
     metrics: [{ v: "#1", k: "National Ranking" }],
     tags: ["Multi-Study Success", "Ongoing Results", "Long-Term Partnership"],
   },
@@ -75,13 +75,13 @@ const CASES = [
   {
     n: "05",
     client: "Non-Profit Health Foundation",
-    sector: "Non-Profit / Women's Health",
+    sector: "Non-Profit / Women’s Health",
     challenge:
-      "A digital women's health platform needed to transform their online presence to better serve young women affected by breast cancer. Their existing platform lacked the sophistication and functionality needed to effectively reach and educate their audience, and the team had no way to independently manage or update the site.",
+      "A digital women’s health platform needed to transform their online presence to better serve young women affected by breast cancer. Their existing platform lacked the sophistication and functionality needed to effectively reach and educate their audience, and the team had no way to independently manage or update the site.",
     approach:
-      "TMG went beyond simple website development, translating the foundation's unique design vision into reality while adding sophisticated functionality that streamlined operations. Comprehensive training ensured the team could independently maintain and update everything long-term.",
+      "TMG went beyond simple website development, translating the foundation’s unique design vision into reality while adding sophisticated functionality that streamlined operations. Comprehensive training ensured the team could independently maintain and update everything long-term.",
     results:
-      "The impact has been transformative. We've seen increased fundraising success, enhanced our professional presence, and expanded our reach to support more young women in their breast cancer prevention journey.",
+      "The impact has been transformative. We’ve seen increased fundraising success, enhanced our professional presence, and expanded our reach to support more young women in their breast cancer prevention journey.",
     tags: ["Increased Fundraising", "Expanded Reach", "Team Empowerment", "Industry Leadership"],
   },
 ];

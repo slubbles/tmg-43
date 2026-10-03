@@ -11,7 +11,7 @@ const data: CapabilityPageData = {
   eyebrow: "Predictive Analytics",
   title: (
     <>
-      See tomorrow's results{" "}
+      See tomorrow’s results{" "}
       <span className="display-em" style={{ fontStyle: "italic" }}>today</span>
     </>
   ),
@@ -37,7 +37,7 @@ const data: CapabilityPageData = {
     client: "Energy & Investment Company",
     sector: "Energy / Oil & Gas",
     challenge: "After spending over $100,000 with a larger Dallas-based agency over six months with little return on investment, this energy company was nearly ready to abandon social media marketing altogether.",
-    approach: "TMG built a transparent, results-driven advertising system from the ground up, with ongoing campaign management at a fraction of the prior agency's cost.",
+    approach: "TMG built a transparent, results-driven advertising system from the ground up, with ongoing campaign management at a fraction of the prior agency’s cost.",
     results: "Over 450 qualified leads within 6 weeks, $1MM+ initial raise, and over 16 months: 110+ new investing partners, $15MM+ new raise, 86% cost reduction, 33x ROAS.",
     metrics: [
       { v: "33x", k: "ROAS" },

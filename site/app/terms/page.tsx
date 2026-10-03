@@ -3,7 +3,7 @@ import { SiteHeader, SiteFooter } from "../components/Chrome";
 
 export const metadata = {
   title: "Terms of Service | TMG",
-  description: "The terms that govern access to and use of TMG's websites, platform, and services.",
+  description: "The terms that govern access to and use of TMG’s websites, platform, and services.",
 };
 
 const SECTIONS: { h: string; body: React.ReactNode }[] = [
