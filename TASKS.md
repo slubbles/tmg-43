@@ -27,6 +27,7 @@ Orchestrator / craft agents: mark items `[x]` with short notes when done.
 
 ## Verify & deploy
 - [x] Build green — `next build` ✓ 46/46 static pages; `tsc --noEmit` clean. Note: SWC minify worker pool deadlocks on this shared host; `experimental.cpus:1 + workerThreads:false` in next.config.mjs is the workaround (documented in config comment). Direct swc stress test (8k transforms) passes — minify itself is fast.
+- [x] Vercel production `bun install` was failing on master (dpl_FppHXPFauaPGgBTojy6NYBdWuPaK and two prior). Two stacked causes: (1) Git deploys run from the repo root, where there was no `package.json` / `bun.lock`, so Vercel never put `/bun1` on PATH and `bun install` exited 1; (2) `site/bun.lock` was Bun 1.4 `lockfileVersion: 2`, which bun 1.3.14 cannot parse. Fix: symlink the Next app files to the repo root, add a root `vercel.json`, and stamp `bun.lock` to `lockfileVersion: 1`. Do not re-save the lockfile with bun 1.4 or it will bump back to v2.
 - [x] Visual/content check vs brief — 41-route HTML sweep: widget present, no metric theater, no entity leaks, h1 ≥44px everywhere, no lead-email leak, no Geist; photos/serve 200 in prod
 - [x] Deploy Vercel → record DEPLOY_URL — https://tmg-43.vercel.app (project tmg-43, from .genesis_vercel.json; --name honored)
 

@@ -7,3 +7,5 @@ harness_trace.jsonl
 /photos/
 look_packet/
 *.log
+/node_modules
+/.next
