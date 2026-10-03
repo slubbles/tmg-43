@@ -27,6 +27,7 @@ Orchestrator / craft agents: mark items `[x]` with short notes when done.
 
 ## Verify & deploy
 - [x] Build green — `next build` ✓ 46/46 static pages; `tsc --noEmit` clean. Note: SWC minify worker pool deadlocks on this shared host; `experimental.cpus:1 + workerThreads:false` in next.config.mjs is the workaround (documented in config comment). Direct swc stress test (8k transforms) passes — minify itself is fast.
+- [x] Vercel production `bun install` was failing on master (dpl_FppHXPFauaPGgBTojy6NYBdWuPaK and two prior). Cause: `site/bun.lock` is Bun 1.4 `lockfileVersion: 2`; Vercel’s default install bun is `bun@1.x` (1.3.14), which errors `Unknown lockfile version`. Fix: pin `installCommand` to `npx -y bun@1.4.2 install` and build with `npx next build` so install matches `packageManager` / lockfile without switching the Next.js function runtime.
 - [x] Visual/content check vs brief — 41-route HTML sweep: widget present, no metric theater, no entity leaks, h1 ≥44px everywhere, no lead-email leak, no Geist; photos/serve 200 in prod
 - [x] Deploy Vercel → record DEPLOY_URL — https://tmg-43.vercel.app (project tmg-43, from .genesis_vercel.json; --name honored)
 

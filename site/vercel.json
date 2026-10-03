@@ -1,5 +1,5 @@
 {
   "framework": "nextjs",
-  "buildCommand": "bun run build",
-  "installCommand": "bun install"
+  "buildCommand": "npx next build",
+  "installCommand": "npx -y bun@1.4.2 install"
 }
