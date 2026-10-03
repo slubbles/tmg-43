@@ -62,12 +62,13 @@ export default function Hero() {
           href="/contact"
           style={{
             marginTop: 28,
-            color: "#ffffff",
-            background: "#1a1714",
+            color: "#f4f1ea",
+            background: "var(--accent, #e8a23c)",
             border: "none",
             padding: 14,
             width: "fit-content",
             textDecoration: "none",
+            fontWeight: 600,
           }}
         >
           {"Call 348-7753434"}
